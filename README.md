@@ -1,4 +1,4 @@
-This is the project repo for Huifang Wang. Here are some instructions on running the script. 
+This is the project repo. Here are some instructions on running the script. 
 
 1. My bash script run.sh use python3 to run python as follows: 
    $ python3 ./src/h1bStat.py
